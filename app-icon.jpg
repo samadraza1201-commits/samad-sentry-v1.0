@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SAMAD SENTRY</title>
+    
+    <!-- यह लाइन आपके वेबसाइट का आइकन हर जगह सेट कर देगी -->
+    <link rel="icon" type="image/jpeg" href="icon.jpg">
+    <link rel="apple-touch-icon" href="icon.jpg">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>SAMAD SENTRY</h1>
+    <p>Welcome to the Sentry System!</p>
+</body>
+</html>
